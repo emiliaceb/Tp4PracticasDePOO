@@ -1,13 +1,13 @@
-#Practicas de POO
+# Practicas de POO
 *Esta practica estuvo enfocada en el uso de Clases y Objetos en JavaScript.*
 
-##Herramientas utilizadas⚒️:
+## Herramientas utilizadas⚒️:
 -[Html]
 -[JavaScript]
 
-##Instalacion: 
+## Instalacion: 
 puedes clonar el repositorio:
 https://github.com/emiliaceb/Tp4PracticasDePOO.git
 
-###Autor👩‍💻:
+### Autor👩‍💻:
 -[Emilia Ceballos]
